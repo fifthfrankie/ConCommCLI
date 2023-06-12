@@ -49,6 +49,7 @@ Related to issue 123
 
 ## Running the ConCommCLI Executable
 To run the "ConCommCLI" executable from the dist folder, open a command line or terminal and navigate to the dist directory. Then, execute the following command:
+
 --------------------
 
 ./ConCommCLI
