@@ -1,6 +1,6 @@
 # Conventional Commit CLI
 
-<img width="555" alt="Screenshot 2023-06-11 at 16 49 39" src="https://github.com/fifthfrankie/ConCommCLI/assets/75613843/3024918d-207b-430b-8421-9ec5c5149165">
+<img width="1277" alt="Screenshot 2023-06-12 at 09 01 52" src="https://github.com/fifthfrankie/ConCommCLI/assets/75613843/dce2af52-20db-47d7-a8ff-ab622ebe6025">
 
 ## Summary
 The Conventional Commit CLI is a command-line tool designed to help users create well-formatted commit messages following the conventions of Conventional Commits. Conventional Commits provide a standardized format for commit messages, making it easier to understand the nature of changes introduced by a commit. This tool guides users through the process of creating a conventional commit message by prompting for the necessary information.
