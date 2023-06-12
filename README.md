@@ -34,11 +34,13 @@ For more information on Conventional Commits, you can refer to the [Conventional
 
 ## Example Commit Message
 --------------------
+
 🚀 feat(parser): add ability to parse arrays
 
 This feature allows the parser to handle array input.
 
-Related to issue #123
+Related to issue 123
+
 --------------------
 ## Repository Structure
 - `ConCommCLI.py`: The Python script that implements the Conventional Commit CLI functionality.
@@ -48,7 +50,9 @@ Related to issue #123
 ## Running the ConCommCLI Executable
 To run the "ConCommCLI" executable from the dist folder, open a command line or terminal and navigate to the dist directory. Then, execute the following command:
 --------------------
+
 ./ConCommCLI
+
 --------------------
 Follow the prompts to provide the necessary information and create a conventional commit message.
 
